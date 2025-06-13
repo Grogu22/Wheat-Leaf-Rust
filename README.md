@@ -1,2 +1,2 @@
-# Wheat-Leaf-Rust
-public repo for sharing Notebook for experiments
+# Wheat-Leaf-Rust-Detection
+This is our repository for sharing experiments that we have done and result that we have obtained from them.
